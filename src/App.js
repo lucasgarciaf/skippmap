@@ -1,19 +1,22 @@
 import React, { useState, useEffect } from "react";
 import { CssBaseline, Grid } from "@material-ui/core";
 
-import { getPlacesData } from "./api/travelAdvisorAPI";
+// import { getPlacesData } from "./api/travelAdvisorAPI";
+import { getPlacesData } from "./api/projectsFinder";
+
 import Header from "./components/Header/Header";
 import List from "./components/List/List";
 import Map from "./components/Map/Map";
 
 const App = () => {
   const [type, setType] = useState("restaurants");
-  const [rating, setRating] = useState("");
+  const [rating, setRating] = useState("0");
 
   const [coords, setCoords] = useState({});
   const [bounds, setBounds] = useState(null);
 
   const [filteredPlaces, setFilteredPlaces] = useState([]);
+
   const [places, setPlaces] = useState([]);
 
   const [autocomplete, setAutocomplete] = useState(null);
@@ -30,8 +33,11 @@ const App = () => {
 
   useEffect(() => {
     const filtered = places.filter((place) => Number(place.rating) > rating);
-
-    setFilteredPlaces(filtered);
+    if (filtered) {
+      setFilteredPlaces(filtered);
+    } else {
+      filtered = [];
+    }
   }, [rating]);
 
   useEffect(() => {
@@ -41,6 +47,7 @@ const App = () => {
       getPlacesData(type, bounds.sw, bounds.ne).then((data) => {
         setPlaces(data.filter((place) => place.name && place.num_reviews > 0));
         setFilteredPlaces([]);
+        console.log(places);
         setRating("");
         setIsLoading(false);
       });

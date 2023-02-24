@@ -1,0 +1,1995 @@
+[
+  {
+    "location_id": "10820614",
+    "name": "Cafe Martinez Rio Cuarto",
+    "latitude": "-33.117867",
+    "longitude": "-64.34642",
+    "num_reviews": "35",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/cb/db/df/meriendande-campo.jpg",
+          "height": "140"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/cb/db/df/meriendande-campo.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "4160",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/cb/db/df/meriendande-campo.jpg",
+          "height": "2336"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/cb/db/df/meriendande-campo.jpg",
+          "height": "575"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/cb/db/df/meriendande-campo.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2017-07-06T17:36:08-0400",
+      "caption": "Meriendande campo",
+      "id": "265018335",
+      "helpful_votes": "0",
+      "published_date": "2017-07-06T17:36:08-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.293578624725342",
+    "ranking_geo": "Rio Cuarto",
+    "ranking_geo_id": "1028492",
+    "ranking_position": "11",
+    "ranking_denominator": "44",
+    "ranking_category": "restaurant",
+    "ranking": "#11 of 57 Restaurants in Rio Cuarto",
+    "distance": "0.6181713290204196",
+    "distance_string": "0.6 km",
+    "bearing": "east",
+    "rating": "4.0",
+    "is_closed": false,
+    "open_now_text": "Opens in 8 min",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d10820614-Reviews-Cafe_Martinez_Rio_Cuarto-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d10820614-Cafe_Martinez_Rio_Cuarto-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "website": "http://www.cafemartinez.com",
+    "address_obj": {
+      "street1": "Calle Sobremonte 80",
+      "street2": "Paseo de la Ribera. Primer Piso.",
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "X5800AAB"
+    },
+    "address": "Calle Sobremonte 80 Paseo de la Ribera. Primer Piso., Rio Cuarto X5800AAB Argentina",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 510,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 510,
+            "close_time": 1455
+          }
+        ],
+        [
+          {
+            "open_time": 510,
+            "close_time": 1455
+          }
+        ],
+        [
+          {
+            "open_time": 510,
+            "close_time": 1455
+          }
+        ],
+        [
+          {
+            "open_time": 510,
+            "close_time": 1455
+          }
+        ],
+        [
+          {
+            "open_time": 510,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 510,
+            "close_time": 1500
+          }
+        ]
+      ],
+      "timezone": "America/Argentina/Cordoba"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10642",
+        "name": "Cafe"
+      },
+      {
+        "key": "10698",
+        "name": "Argentinean"
+      },
+      {
+        "key": "10749",
+        "name": "South American"
+      }
+    ],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "4555274",
+    "name": "Heladeria Buenaventura",
+    "latitude": "-33.11999",
+    "longitude": "-64.34814",
+    "num_reviews": "33",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.2557356357574463",
+    "ranking_geo": "Rio Cuarto",
+    "ranking_geo_id": "1028492",
+    "ranking_position": "12",
+    "ranking_denominator": "44",
+    "ranking_category": "restaurant",
+    "ranking": "#1 of 2 Dessert in Rio Cuarto",
+    "distance": "0.6115643224501877",
+    "distance_string": "0.6 km",
+    "bearing": "southeast",
+    "rating": "4.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d4555274-Reviews-Heladeria_Buenaventura-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d4555274-Heladeria_Buenaventura-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 358 465-5380",
+    "website": "https://www.facebook.com/HeladosyCafeBuenaventura/info",
+    "address_obj": {
+      "street1": "Avenida Constitucion 329",
+      "street2": null,
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "X5800BBB"
+    },
+    "address": "Avenida Constitucion 329, Rio Cuarto X5800BBB Argentina",
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "9909",
+        "name": "Dessert"
+      }
+    ]
+  },
+  {
+    "location_id": "10457640",
+    "name": "Bodegon Pizzero",
+    "latitude": "-33.117893",
+    "longitude": "-64.34644",
+    "num_reviews": "25",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/ca/ee/d8/el-bodegon.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/ca/ee/d8/el-bodegon.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "4080",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/ca/ee/d8/el-bodegon.jpg",
+          "height": "2720"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0c/ca/ee/d8/el-bodegon.jpg",
+          "height": "683"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/ca/ee/d8/el-bodegon.jpg",
+          "height": "367"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-09-01T16:29:26-0400",
+      "caption": "El Bodegón",
+      "id": "214626008",
+      "helpful_votes": "1",
+      "published_date": "2016-09-01T16:29:26-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.18999981880188",
+    "ranking_geo": "Rio Cuarto",
+    "ranking_geo_id": "1028492",
+    "ranking_position": "15",
+    "ranking_denominator": "44",
+    "ranking_category": "restaurant",
+    "ranking": "#14 of 57 Restaurants in Rio Cuarto",
+    "distance": "0.6171543301526403",
+    "distance_string": "0.6 km",
+    "bearing": "east",
+    "rating": "4.0",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$69 - $150",
+    "description": "Las pizzas más ricas las encontrás en Bodegón Pizzero. Desde las clásicas muzzarella y especial, hasta calzone y empanadas. Nuestro estilo gourmet hace que nuestros productos sean únicos.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d10457640-Reviews-Bodegon_Pizzero-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d10457640-Bodegon_Pizzero-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "sit_down",
+        "name": "Sit down"
+      }
+    ],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 358 429-5205",
+    "website": "http://www.bodegonpizzero.com.ar",
+    "email": "hola@bodegonpizzero.com.ar",
+    "address_obj": {
+      "street1": "Boulevard Jaime Gil 11.",
+      "street2": "Patio de Comidas de Paseo de la Ribera",
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "5800"
+    },
+    "address": "Boulevard Jaime Gil 11. Patio de Comidas de Paseo de la Ribera, Rio Cuarto 5800 Argentina",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 600,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1440
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1500
+          }
+        ]
+      ],
+      "timezone": "America/Argentina/Cordoba"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10641",
+        "name": "Pizza"
+      },
+      {
+        "key": "10698",
+        "name": "Argentinean"
+      },
+      {
+        "key": "10749",
+        "name": "South American"
+      }
+    ],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "10675155",
+    "name": "La taberna",
+    "latitude": "-33.11548",
+    "longitude": "-64.35294",
+    "num_reviews": "12",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/05/35/da/exquisitos-vinos-en-todas.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/05/35/da/exquisitos-vinos-en-todas.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2000",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/05/35/da/exquisitos-vinos-en-todas.jpg",
+          "height": "1500"
+        },
+        "large": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/05/35/da/exquisitos-vinos-en-todas.jpg",
+          "height": "413"
+        },
+        "medium": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/05/35/da/exquisitos-vinos-en-todas.jpg",
+          "height": "188"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2018-05-21T18:20:13-0400",
+      "caption": "Exquisitos vinos en todas sus variedades...",
+      "id": "319108570",
+      "helpful_votes": "1",
+      "published_date": "2018-05-21T18:20:13-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.1395699977874756",
+    "ranking_geo": "Rio Cuarto",
+    "ranking_geo_id": "1028492",
+    "ranking_position": "18",
+    "ranking_denominator": "44",
+    "ranking_category": "restaurant",
+    "ranking": "#17 of 57 Restaurants in Rio Cuarto",
+    "distance": "0.06561630239895579",
+    "distance_string": "65 m",
+    "bearing": "north",
+    "rating": "4.5",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d10675155-Reviews-La_taberna-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d10675155-La_taberna-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 9 358 411-6444",
+    "website": "https://www.facebook.com/latabernavinosybebidas/",
+    "email": "jmvinos@hotmail.com",
+    "address_obj": {
+      "street1": "Av. Marconi 790",
+      "street2": null,
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "X5806FKL"
+    },
+    "address": "Av. Marconi 790, Rio Cuarto X5806FKL Argentina",
+    "hours": {
+      "week_ranges": [
+        [],
+        [
+          {
+            "open_time": 540,
+            "close_time": 780
+          },
+          {
+            "open_time": 1020,
+            "close_time": 1290
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 780
+          },
+          {
+            "open_time": 1020,
+            "close_time": 1290
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 780
+          },
+          {
+            "open_time": 1020,
+            "close_time": 1290
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 780
+          },
+          {
+            "open_time": 1020,
+            "close_time": 1290
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 780
+          },
+          {
+            "open_time": 1020,
+            "close_time": 1290
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 780
+          },
+          {
+            "open_time": 1020,
+            "close_time": 1290
+          }
+        ]
+      ],
+      "timezone": "America/Argentina/Cordoba"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "1028492",
+    "ad_position": "inline1",
+    "ad_size": "8X8",
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "detail": "0",
+    "page_type": "restaurants",
+    "mob_ptype": "app_restaurants"
+  },
+  {
+    "location_id": "6434392",
+    "name": "Green Bar",
+    "latitude": "-33.117023",
+    "longitude": "-64.35215",
+    "num_reviews": "43",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/38/17/9c/barra-tre.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/38/17/9c/barra-tre.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "960",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/38/17/9c/barra-tre.jpg",
+          "height": "639"
+        },
+        "large": {
+          "width": "960",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/38/17/9c/barra-tre.jpg",
+          "height": "639"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/38/17/9c/barra-tre.jpg",
+          "height": "366"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-05-11T14:47:46-0400",
+      "caption": "barra tre",
+      "id": "188225436",
+      "helpful_votes": "1",
+      "published_date": "2016-05-11T14:47:46-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.127155065536499",
+    "ranking_geo": "Rio Cuarto",
+    "ranking_geo_id": "1028492",
+    "ranking_position": "20",
+    "ranking_denominator": "44",
+    "ranking_category": "restaurant",
+    "ranking": "#19 of 57 Restaurants in Rio Cuarto",
+    "distance": "0.12157721773952423",
+    "distance_string": "0.1 km",
+    "bearing": "southeast",
+    "rating": "3.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d6434392-Reviews-Green_Bar-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d6434392-Green_Bar-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 358 463-1022",
+    "address_obj": {
+      "street1": "Calle Ing Guillermo Marconi 650",
+      "street2": null,
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "X5806FKJ"
+    },
+    "address": "Calle Ing Guillermo Marconi 650, Rio Cuarto X5806FKJ Argentina",
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10698",
+        "name": "Argentinean"
+      },
+      {
+        "key": "10749",
+        "name": "South American"
+      }
+    ],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "12180074",
+    "name": "Tama Sushi",
+    "latitude": "-33.12148",
+    "longitude": "-64.35531",
+    "num_reviews": "5",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.094923496246338",
+    "ranking_geo": "Rio Cuarto",
+    "ranking_geo_id": "1028492",
+    "ranking_position": "23",
+    "ranking_denominator": "44",
+    "ranking_category": "restaurant",
+    "ranking": "#22 of 57 Restaurants in Rio Cuarto",
+    "distance": "0.654819192169597",
+    "distance_string": "0.7 km",
+    "bearing": "south",
+    "rating": "5.0",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$",
+    "price": "$50 - $200",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d12180074-Reviews-Tama_Sushi-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d12180074-Tama_Sushi-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [
+      {
+        "key": "fast_food",
+        "name": "Fast food"
+      }
+    ],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 9 358 438-4749",
+    "website": "http://www.facebook.com/sushiriocuarto/",
+    "address_obj": {
+      "street1": "Calle Gral San Martin 700",
+      "street2": null,
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "X5800DIN"
+    },
+    "address": "Calle Gral San Martin 700, Rio Cuarto X5800DIN Argentina",
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "5473",
+        "name": "Japanese"
+      },
+      {
+        "key": "10653",
+        "name": "Sushi"
+      },
+      {
+        "key": "10659",
+        "name": "Asian"
+      }
+    ],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "10050543",
+    "name": "Johnny B. Good",
+    "latitude": "-33.11782",
+    "longitude": "-64.34685",
+    "num_reviews": "21",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "150",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/08/e3/d3/johnny-b-good.jpg",
+          "height": "150"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/08/e3/d3/johnny-b-good.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "2312",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/08/e3/d3/johnny-b-good.jpg",
+          "height": "1536"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/0b/08/e3/d3/johnny-b-good.jpg",
+          "height": "680"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/08/e3/d3/johnny-b-good.jpg",
+          "height": "365"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2016-04-27T15:53:51-0400",
+      "caption": "Johnny B Good Río Cuarto",
+      "id": "185131987",
+      "helpful_votes": "0",
+      "published_date": "2016-04-27T15:56:00-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.086480140686035",
+    "ranking_geo": "Rio Cuarto",
+    "ranking_geo_id": "1028492",
+    "ranking_position": "25",
+    "ranking_denominator": "44",
+    "ranking_category": "restaurant",
+    "ranking": "#24 of 57 Restaurants in Rio Cuarto",
+    "distance": "0.5789713655005544",
+    "distance_string": "0.6 km",
+    "bearing": "east",
+    "rating": "3.5",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "$$ - $$$",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d10050543-Reviews-Johnny_B_Good-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d10050543-Johnny_B_Good-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 358 462-4800",
+    "website": "http://www.jbgood.com/",
+    "email": "riocuarto@jbgood.com",
+    "address_obj": {
+      "street1": "Avenida Espana 116",
+      "street2": null,
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "X5800BUO"
+    },
+    "address": "Avenida Espana 116, Rio Cuarto X5800BUO Argentina",
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10683",
+        "name": "Gastropub"
+      },
+      {
+        "key": "10670",
+        "name": "Pub"
+      }
+    ],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "24830052",
+    "name": "Porto Gelato",
+    "latitude": "-33.11738",
+    "longitude": "-64.34733",
+    "num_reviews": "1",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.0448358058929443",
+    "ranking_geo": "Rio Cuarto",
+    "ranking_geo_id": "1028492",
+    "ranking_position": "31",
+    "ranking_denominator": "44",
+    "ranking_category": "restaurant",
+    "ranking": "#2 of 2 Dessert in Rio Cuarto",
+    "distance": "0.5208238684984093",
+    "distance_string": "0.5 km",
+    "bearing": "east",
+    "rating": "5.0",
+    "is_closed": false,
+    "open_now_text": "Open Now",
+    "is_long_closed": false,
+    "price_level": "",
+    "description": "Porto Gelato - Helados - Café - Pasteleria",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d24830052-Reviews-Porto_Gelato-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d24830052-Porto_Gelato-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 3585 13-7652",
+    "website": "http://portogelato.com.ar/",
+    "address_obj": {
+      "street1": "Avenida Espana 180",
+      "street2": "Frente A Plaza Del Monumento A San Martin",
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "X5800BUO"
+    },
+    "address": "Avenida Espana 180 Frente A Plaza Del Monumento A San Martin, Rio Cuarto X5800BUO Argentina",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 540,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 480,
+            "close_time": 1530
+          }
+        ],
+        [
+          {
+            "open_time": 540,
+            "close_time": 1560
+          }
+        ]
+      ],
+      "timezone": "America/Argentina/Cordoba"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "9909",
+        "name": "Dessert"
+      }
+    ]
+  },
+  {
+    "location_id": "25098616",
+    "name": "Casa Pauline",
+    "latitude": "-33.11693",
+    "longitude": "-64.34491",
+    "num_reviews": "0",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.0446553230285645",
+    "ranking_geo": "Rio Cuarto",
+    "ranking_geo_id": "1028492",
+    "ranking_position": "32",
+    "ranking_denominator": "44",
+    "ranking_category": "restaurant",
+    "ranking": "#30 of 57 Restaurants in Rio Cuarto",
+    "distance": "0.7309451595530041",
+    "distance_string": "0.7 km",
+    "bearing": "east",
+    "is_closed": false,
+    "is_long_closed": false,
+    "price_level": "",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d25098616-Reviews-Casa_Pauline-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d25098616-Casa_Pauline-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 9 358 492-5414",
+    "email": "info@casapauline.com.ar",
+    "address_obj": {
+      "street1": "Calle Alvear 757",
+      "street2": null,
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "X5800BCO"
+    },
+    "address": "Calle Alvear 757, Rio Cuarto X5800BCO Argentina",
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "10648",
+        "name": "International"
+      },
+      {
+        "key": "10655",
+        "name": "Spanish"
+      },
+      {
+        "key": "10698",
+        "name": "Argentinean"
+      },
+      {
+        "key": "10749",
+        "name": "South American"
+      }
+    ],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "21278629",
+    "name": "Pizzeria Rey",
+    "latitude": "-33.120995",
+    "longitude": "-64.3496",
+    "num_reviews": "1",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "raw_ranking": "3.0365822315216064",
+    "ranking_geo": "Rio Cuarto",
+    "ranking_geo_id": "1028492",
+    "ranking_position": "33",
+    "ranking_denominator": "44",
+    "ranking_category": "restaurant",
+    "ranking": "#31 of 57 Restaurants in Rio Cuarto",
+    "distance": "0.6230311264975542",
+    "distance_string": "0.6 km",
+    "bearing": "southeast",
+    "rating": "5.0",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d21278629-Reviews-Pizzeria_Rey-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d21278629-Pizzeria_Rey-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 358 475-0500",
+    "website": "https://cutt.ly/zjrIOFV",
+    "email": "celee_morenoo@hotmail.com",
+    "address_obj": {
+      "street1": "Avenida Pte M T de Alvear 475",
+      "street2": null,
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "X5804FZE"
+    },
+    "address": "Avenida Pte M T de Alvear 475, Rio Cuarto X5804FZE Argentina",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 660,
+            "close_time": 900
+          },
+          {
+            "open_time": 1170,
+            "close_time": 1470
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 900
+          },
+          {
+            "open_time": 1170,
+            "close_time": 1470
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 900
+          },
+          {
+            "open_time": 1170,
+            "close_time": 1470
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 900
+          },
+          {
+            "open_time": 1170,
+            "close_time": 1470
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 900
+          },
+          {
+            "open_time": 1170,
+            "close_time": 1470
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 900
+          },
+          {
+            "open_time": 1170,
+            "close_time": 1470
+          }
+        ],
+        [
+          {
+            "open_time": 660,
+            "close_time": 900
+          },
+          {
+            "open_time": 1170,
+            "close_time": 1470
+          }
+        ]
+      ],
+      "timezone": "America/Argentina/Cordoba"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "1028492",
+    "ad_position": "inline2",
+    "ad_size": "8X8",
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "detail": "0",
+    "page_type": "restaurants",
+    "mob_ptype": "app_restaurants"
+  },
+  {
+    "location_id": "17432114",
+    "name": "Reina Celena",
+    "latitude": "-33.11631",
+    "longitude": "-64.350044",
+    "num_reviews": "0",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "distance": "0.24741727376463096",
+    "distance_string": "0.2 km",
+    "bearing": "east",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "",
+    "description": "",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d17432114-Reviews-Reina_Celena-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d17432114-Reina_Celena-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 358 465-0200",
+    "website": "https://www.facebook.com/reinacelena",
+    "email": "mabelcampero@reinacelena.com.ar",
+    "address_obj": {
+      "street1": "Eliseo Sanchez 350",
+      "street2": null,
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "5800"
+    },
+    "address": "Eliseo Sanchez 350, Rio Cuarto 5800 Argentina",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 600,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1439
+          }
+        ],
+        [
+          {
+            "open_time": 600,
+            "close_time": 1439
+          }
+        ]
+      ],
+      "timezone": "America/Argentina/Cordoba"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  },
+  {
+    "location_id": "25259703",
+    "name": "Que Chingon! Resto Bar Mexicano",
+    "latitude": "-33.119347",
+    "longitude": "-64.352844",
+    "num_reviews": "0",
+    "timezone": "America/Argentina/Cordoba",
+    "location_string": "Rio Cuarto, Province of Cordoba, Central Argentina",
+    "awards": [],
+    "doubleclick_zone": "sa.argentina.central_argentina",
+    "preferred_map_engine": "default",
+    "distance": "0.3701199156247826",
+    "distance_string": "0.4 km",
+    "bearing": "south",
+    "is_closed": false,
+    "open_now_text": "Closed Now",
+    "is_long_closed": false,
+    "price_level": "",
+    "description": "Un concepto joven, pícaro y atrevido inspirado en la cocina mexicana contemporánea, cuya experiencia se sustenta en platos innovadores, coloridos y sabrosos, un servicio personalizado y una ambientación que nos transporta directamente a México. Hemos dado un giro a la comida mexicana tradicional, creando experiencias que sorprenden y deleitan.",
+    "web_url": "https://www.tripadvisor.com/Restaurant_Review-g1028492-d25259703-Reviews-Que_Chingon_Resto_Bar_Mexicano-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "write_review": "https://www.tripadvisor.com/UserReview-g1028492-d25259703-Que_Chingon_Resto_Bar_Mexicano-Rio_Cuarto_Province_of_Cordoba_Central_Argentina.html",
+    "ancestors": [
+      {
+        "subcategory": [
+          {
+            "key": "city",
+            "name": "City"
+          }
+        ],
+        "name": "Rio Cuarto",
+        "abbrv": null,
+        "location_id": "1028492"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "province",
+            "name": "Province"
+          }
+        ],
+        "name": "Province of Cordoba",
+        "abbrv": null,
+        "location_id": "312765"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "region",
+            "name": "Region"
+          }
+        ],
+        "name": "Central Argentina",
+        "abbrv": null,
+        "location_id": "312742"
+      },
+      {
+        "subcategory": [
+          {
+            "key": "country",
+            "name": "Country"
+          }
+        ],
+        "name": "Argentina",
+        "abbrv": null,
+        "location_id": "294266"
+      }
+    ],
+    "category": {
+      "key": "restaurant",
+      "name": "Restaurant"
+    },
+    "subcategory": [],
+    "parent_display_name": "Rio Cuarto",
+    "is_jfy_enabled": false,
+    "nearest_metro_station": [],
+    "phone": "+54 3585 60-4085",
+    "website": "https://quechingon.com.ar/franquicias/gastronomicas/",
+    "email": "boccovalentina@gmail.com",
+    "address_obj": {
+      "street1": "Calle Sebastian Vera 546",
+      "street2": null,
+      "city": "Rio Cuarto",
+      "state": null,
+      "country": "Argentina",
+      "postalcode": "X5800DFN"
+    },
+    "address": "Calle Sebastian Vera 546, Rio Cuarto X5800DFN Argentina",
+    "hours": {
+      "week_ranges": [
+        [
+          {
+            "open_time": 1170,
+            "close_time": 1500
+          }
+        ],
+        [],
+        [
+          {
+            "open_time": 1170,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1170,
+            "close_time": 1500
+          }
+        ],
+        [
+          {
+            "open_time": 1170,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 1170,
+            "close_time": 1560
+          }
+        ],
+        [
+          {
+            "open_time": 1170,
+            "close_time": 1560
+          }
+        ]
+      ],
+      "timezone": "America/Argentina/Cordoba"
+    },
+    "is_candidate_for_contact_info_suppression": false,
+    "cuisine": [
+      {
+        "key": "5110",
+        "name": "Mexican"
+      },
+      {
+        "key": "10671",
+        "name": "Fusion"
+      }
+    ],
+    "dietary_restrictions": [],
+    "establishment_types": [
+      {
+        "key": "11776",
+        "name": "Bars & Pubs"
+      },
+      {
+        "key": "10591",
+        "name": "Restaurants"
+      }
+    ]
+  }
+]
